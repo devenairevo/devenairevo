@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Eldar Najafov
+I'm a Backend Software Engineer with over 2 years of experience, currently focused on building scalable systems using Golang. 
+I have a background in PHP and have worked on a variety of backend projects involving REST APIs, system design, and automation.
 
-<!--
-**devenairevo/devenairevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ What I Do
+- Build fast and reliable backend services with Golang
 
-Here are some ideas to get you started:
+- Optimize APIs and backend systems for performance and uptime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Create tools to automate repetitive tasks and improve workflows
+
+- Write clean code and follow best practices in system architecture
+
