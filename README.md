@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eldar Najafov
+# 👋 Hi, I'm Eldar
 
 I'm a **Backend Software Engineer** with over 2 years of experience, currently focused on building scalable systems using **Golang**.  
 I have a background in **PHP** and have worked on a variety of backend projects involving **REST APIs**, **system design**, and **automation**.
