@@ -9,3 +9,8 @@ I have a background in **PHP** and have worked on a variety of backend projects 
 - **Optimize APIs and backend systems** for performance and uptime  
 - **Create tools** to automate repetitive tasks and improve workflows  
 - **Write clean code** and follow best practices in **system architecture**
+
+## 📚 Go Learning Journey
+
+**Books:** *Learning Go* by Jon Bodner  
+**Courses:** *Ultimate Go* by Ardan Labs, *A Tour of Go* (official interactive tutorial)
