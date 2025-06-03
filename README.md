@@ -13,4 +13,4 @@ I have a background in **PHP** and have worked on a variety of backend projects 
 ## 📚 Go Learning Journey
 
 **Books:** *Learning Go* by Jon Bodner  
-**Courses:** *Ultimate Go* by Ardan Labs, *A Tour of Go* (official interactive tutorial)
+**Courses:** *Ultimate Go* by Ardan Labs, *A Tour of Go*
