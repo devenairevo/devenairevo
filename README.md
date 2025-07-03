@@ -14,3 +14,7 @@ I have a background in **PHP** and have worked on a variety of backend projects 
 
 **Books:** *Learning Go* by Jon Bodner  
 **Courses:** *Ultimate Go* by Ardan Labs, *A Tour of Go*
+
+<!--- # 📊 GitHub Stats --->
+
+<!--- # ![Eldar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devenairevo&show_icons=true&count_private=true&theme=vue-dark) --->
