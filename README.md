@@ -2,7 +2,7 @@
 
 I'm a **Mid-level Backend Software Engineer** with **3+ years of experience** building scalable systems using **Golang** and **PHP**.
 
-Currently, I work on a **microservices-based fintech platform**, contributing to a system of **50+ services**, focusing on performance, reliability, and clean architecture.
+Worked on a **microservices-based fintech platform**, contributing to a system of **50+ services**, focusing on performance, reliability, and clean architecture.
 
 ---
 
